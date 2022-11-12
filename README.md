@@ -1,3 +1,5 @@
+---
+[![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)
 
 ## 🌐 Socials:
 ### Discord:
@@ -11,8 +13,6 @@
 ![Mid0aria's Github Stats](https://github-readme-stats.vercel.app/api?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mid0aria&theme=radical&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mid0aria&theme=radical&no-frame=false&no-bg=false&margin-w=4)
