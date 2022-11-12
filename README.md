@@ -1,4 +1,3 @@
----
 [![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)
 
 ## 🌐 Socials:
