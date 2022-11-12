@@ -1,5 +1,7 @@
 
 ## 🌐 Socials:
+# Discord:
+<p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/829994947088089108"></p>
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mid0aria) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mid0aria) 
 
 # 💻 Tech Stack:
