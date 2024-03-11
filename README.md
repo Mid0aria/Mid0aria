@@ -3,6 +3,7 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)<br>
+https://mido.anlayana.com
 # ☕ Social:
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/midopy/)
 ### Discord:
