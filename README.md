@@ -10,10 +10,9 @@ https://mido.anlayana.com
 ![websitestatus](https://img.shields.io/website-up-down-green-red/http/mido.anlayana.com)
 
 # ☕ Social:
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/midopy/)
+[![Discord](https://img.shields.io/badge/Discord:-Mid0Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzYXVbXt6C) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/midopy/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Mid0aria/)
 ### Discord:
-<a href ="https://discord.gg/WzYXVbXt6C">Discord Server</a><br>
-<p align="center"><img src="https://lanyard.cnrad.dev/api/526822284694913042"></p>
+<p align="center"><img src="https://lanyard.cnrad.dev/api/526822284694913042">
 
 # 💻 Tech Stack:
 <details>
