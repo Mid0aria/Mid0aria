@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://wakatime.com/@Mid0aria"><img width="200px" title="https://wakatime.com/@89e089db-1038-4154-873c-fdcc5211f70d" src="https://wakatime.com/badge/user/89e089db-1038-4154-873c-fdcc5211f70d.svg?style=flat"/></a>
+  
   [![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)<br>
 </p>
 
