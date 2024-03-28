@@ -1,9 +1,13 @@
 <p align="center">
   <a href="https://wakatime.com/@Mid0aria"><img width="200px" title="https://wakatime.com/@89e089db-1038-4154-873c-fdcc5211f70d" src="https://wakatime.com/badge/user/89e089db-1038-4154-873c-fdcc5211f70d.svg?style=flat"/></a>
+  [![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)<br>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)<br>
+# Website:
 https://mido.anlayana.com
+
+![websitestatus](https://img.shields.io/website-up-down-green-red/http/mido.anlayana.com)
+
 # ☕ Social:
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/midopy/)
 ### Discord:
@@ -27,10 +31,11 @@ https://mido.anlayana.com
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino%20IDE-3186A0?style=for-the-badge&logo=arduino&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-3186A0?style=for-the-badge&logo=arduino&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) 
 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![MD](https://img.shields.io/badge/material%20design-202124?style=for-the-badge&logo=material%20design&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 </details>
@@ -46,11 +51,11 @@ https://mido.anlayana.com
 <details>
   <summary>Hardwares</summary>
   
-![MotherBoard](https://img.shields.io/badge/MSI%20B650%20Gaming%20Plus%20WiFi%20AMD%20AM5%20DDR5%20ATX-A4181D?style=for-the-badge&logo=MSI&logoColor=white) ![CPU](https://img.shields.io/badge/AMD%20Ryzen_9_7950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/Rx%206600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair%20Vengeance%20RGB%2032GB%20(2x16GB)%206000MHz%20CL30-18576c?style=for-the-badge&logo=corsair&logoColor=white)
+![MotherBoard](https://img.shields.io/badge/MSI-B650%20Gaming%20Plus%20WiFi%20AMD%20AM5%20DDR5%20ATX-A4181D?style=for-the-badge&logo=MSI&logoColor=white) ![CPU](https://img.shields.io/badge/AMD-Ryzen_9_7950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/Radeon-RX%206600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair-Vengeance%20RGB%2032GB%20(2x16GB)%206000MHz%20CL30-18576c?style=for-the-badge&logo=corsair&logoColor=white)
 
-![Samsung](https://img.shields.io/badge/Samsung%20Galaxy%20A34%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=white) ![Xiaomi](https://img.shields.io/badge/Xiaomi%20POCO_F5-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+![Samsung](https://img.shields.io/badge/Samsung-Galaxy%20A34%205G-1428A0?style=for-the-badge&logo=samsung&logoColor=white) ![Xiaomi](https://img.shields.io/badge/Xiaomi-POCO_F5-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 </details>
        
 
