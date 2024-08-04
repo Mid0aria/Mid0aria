@@ -71,7 +71,7 @@ https://mido.anlayana.com
        
 # ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mid0aria/owofarmbot,mid0aria/owofarmbotv2,Mid0aria/universal-bypass,Mid0aria/Umi-AIO&type=Date)](https://star-history.com/#Mid0aria/owofarmbot&mid0aria/owofarmbotv2&Mid0aria/universal-bypass&Mid0aria/Umi-AIO&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Mid0aria/owofarmbot,mid0aria/owofarmbotv2,Mid0aria/universal-bypass,Mid0aria/Umi-AIO&type=Date)](https://star-history.com/#Mid0aria/owofarmbot&mid0aria/owofarmbot_stable&Mid0aria/universal-bypass&Mid0aria/Umi-AIO&Date)
 
 # 📊 GitHub Stats:
 
