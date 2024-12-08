@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&lines=El+da+fa+prof" alt="Typing SVG"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&lines=El+Profesor+y+Lisboa" alt="Typing SVG"></a>
 <br>
   <a href="https://wakatime.com/@mido"><img width="200px" title="https://wakatime.com/@89e089db-1038-4154-873c-fdcc5211f70d" src="https://wakatime.com/badge/user/89e089db-1038-4154-873c-fdcc5211f70d.svg?style=flat"/></a>
 </p>
