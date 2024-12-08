@@ -1,10 +1,12 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass." alt="Typing SVG"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&lines=El+da+fa+prof" alt="Typing SVG"></a>
 <br>
   <a href="https://wakatime.com/@mido"><img width="200px" title="https://wakatime.com/@89e089db-1038-4154-873c-fdcc5211f70d" src="https://wakatime.com/badge/user/89e089db-1038-4154-873c-fdcc5211f70d.svg?style=flat"/></a>
 </p>
 
   [![](https://visitcount.itsvg.in/api?id=mid0aria&icon=7&color=0)](https://github.com/Mid0aria)<br>
+
+https://github.com/user-attachments/assets/62d7f6e2-8993-4fbe-baa1-8a3b39f83c8d
 
 # Website:
 
