@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link
+            rel="shortcut icon"
+            href="./assets/icon.png"
+            type="image/x-icon"
+        />
+        <link rel="icon" href="./assets/icon.png" type="image/x-icon" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>dam dam dam</title>
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+        />
+        <link rel="stylesheet" href="./css/galery.css" />
+
+        <!-- Google tag (gtag.js) -->
+        <script
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=G-KPQEX8FWTL"
+        ></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+
+            gtag("config", "G-KPQEX8FWTL");
+        </script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="settings-menu">
+                <button id="settingsButton">
+                    <i class="bi bi-gear"></i>
+                </button>
+            </div>
+            <h1 id="desc1" class="rainbow">ε(´｡•᎑•`)っ 💕</h1>
+            <div class="menu">
+                <select id="categorySelect">
+                    <option value="shitpost">😈 Shitpost 😈</option>
+                    <option value="car">🚗 Car 🏎️</option>
+                    <option value="songs-instrument">
+                        🎶 Songs/Instrument 🎻
+                    </option>
+                    <option value="animals">🐈 Animals 🦆</option>
+                    <option value="liked">❤️ Liked</option>
+                    <option value="saved">📑 Saved</option>
+                </select>
+            </div>
+
+            <div id="tiktokMenu" class="altcategory" style="display: none">
+                <select id="tiktokSelect"></select>
+            </div>
+            <div id="instagramMenu" class="altcategory" style="display: none">
+                <select id="instagramSelect"></select>
+            </div>
+            <div class="gallery" id="Gallery"></div>
+            <!-- Modal -->
+            <div id="settingsModal" class="settingsmodal">
+                <span
+                    style="top: 25px; right: 25px"
+                    class="close-btn"
+                    onclick="closeModal()"
+                >
+                    <i class="bi bi-x-circle"></i>
+                </span>
+                <div class="settingsmodal-content">
+                    <h2>Settings</h2>
+                    <h3>Ambiance</h3>
+                    <div class="switch">
+                        <label for="ambianceToggleSwitch">Ambiance Mode:</label>
+                        <input type="checkbox" id="ambianceToggleSwitch" />
+                        <!-- <input type="color" id="ambianceColorPicker" /> -->
+                    </div>
+
+                    <h3>Title</h3>
+                    <label for="newTitle">Title:</label>
+                    <input type="text" id="newTitle" />
+                    <button id="resettitle">Reset Title</button>
+                </div>
+            </div>
+        </div>
+
+        <script src="./js/e.js"></script>
+    </body>
+</html>

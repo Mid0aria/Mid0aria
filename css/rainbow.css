@@ -1,0 +1,131 @@
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow {
+    0%,
+    100% {
+        color: #ff7f00; /* Orange */
+    }
+    8% {
+        color: #ff1aff; /* Purple */
+    }
+    16% {
+        color: #ff0000; /* Red */
+    }
+    24% {
+        color: #4b0082; /* Indigo */
+    }
+    32% {
+        color: #00ffff; /* Cyan */
+    }
+    40% {
+        color: #00ff00; /* Lime */
+    }
+    48% {
+        color: #ffff00; /* Yellow */
+    }
+    56% {
+        color: #ff00ff; /* Magenta */
+    }
+    64% {
+        color: #ff69b4; /* Hot Pink */
+    }
+    72% {
+        color: #0000ff; /* Blue */
+    }
+    80% {
+        color: #ffa500; /* Orange */
+    }
+    88% {
+        color: #ff1aff; /* Purple */
+    }
+    96% {
+        color: #ff0000; /* Red */
+    }
+}
+
+/* Internet Explorer */
+@-ms-keyframes rainbow {
+    0%,
+    100% {
+        color: #ff7f00; /* Orange */
+    }
+    8% {
+        color: #ff1aff; /* Purple */
+    }
+    16% {
+        color: #ff0000; /* Red */
+    }
+    24% {
+        color: #4b0082; /* Indigo */
+    }
+    32% {
+        color: #00ffff; /* Cyan */
+    }
+    40% {
+        color: #00ff00; /* Lime */
+    }
+    48% {
+        color: #ffff00; /* Yellow */
+    }
+    56% {
+        color: #ff00ff; /* Magenta */
+    }
+    64% {
+        color: #ff69b4; /* Hot Pink */
+    }
+    72% {
+        color: #0000ff; /* Blue */
+    }
+    80% {
+        color: #ffa500; /* Orange */
+    }
+    88% {
+        color: #ff1aff; /* Purple */
+    }
+    96% {
+        color: #ff0000; /* Red */
+    }
+}
+
+/* Standard Syntax */
+@keyframes rainbow {
+    0%,
+    100% {
+        color: #ff7f00; /* Orange */
+    }
+    8% {
+        color: #ff1aff; /* Purple */
+    }
+    16% {
+        color: #ff0000; /* Red */
+    }
+    24% {
+        color: #4b0082; /* Indigo */
+    }
+    32% {
+        color: #00ffff; /* Cyan */
+    }
+    40% {
+        color: #00ff00; /* Lime */
+    }
+    48% {
+        color: #ffff00; /* Yellow */
+    }
+    56% {
+        color: #ff00ff; /* Magenta */
+    }
+    64% {
+        color: #ff69b4; /* Hot Pink */
+    }
+    72% {
+        color: #0000ff; /* Blue */
+    }
+    80% {
+        color: #ffa500; /* Orange */
+    }
+    88% {
+        color: #ff1aff; /* Purple */
+    }
+    96% {
+        color: #ff0000; /* Red */
+    }
+}
