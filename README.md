@@ -17,7 +17,7 @@ https://mido.anlayana.com
 
 # ☕ Social:
 
-[![Discord](https://img.shields.io/badge/Discord:-Mid0Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzYXVbXt6C) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/midopy/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Mid0aria/)
+[![Discord](https://img.shields.io/badge/Discord:-Mid0Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzYXVbXt6C)
 
 ### Discord:
 
