@@ -16,10 +16,10 @@ https://github.com/user-attachments/assets/62d7f6e2-8993-4fbe-baa1-8a3b39f83c8d
 https://mido.anlayana.com
 
 # ☕ Social:
-
+<!-- 
 [![Discord](https://img.shields.io/badge/Discord:-Mid0Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzYXVbXt6C)
 
-### Discord:
+### Discord: -->
 
 <p align="center"><img src="https://lanyard.cnrad.dev/api/526822284694913042">
 
@@ -27,7 +27,7 @@ https://mido.anlayana.com
 
 https://mido.anlayana.com/skills
 
-<details>
+<!-- <details>
   <summary>Hardwares</summary>
   
 ![MotherBoard](https://img.shields.io/badge/MSI-B650%20Gaming%20Plus%20WiFi%20AMD%20AM5%20DDR5%20ATX-A4181D?style=for-the-badge&logo=MSI&logoColor=white) ![CPU](https://img.shields.io/badge/AMD-Ryzen_9_7950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/Radeon-RX%206600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair-Vengeance%20RGB%2032GB%20(2x16GB)%206000MHz%20CL30-18576c?style=for-the-badge&logo=corsair&logoColor=white)
@@ -40,14 +40,14 @@ https://mido.anlayana.com/skills
        
 # ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mid0aria/owofarmbot,mid0aria/owofarmbotv2,Mid0aria/universal-bypass,Mid0aria/Umi-AIO&type=Date)](https://star-history.com/#Mid0aria/owofarmbot&mid0aria/owofarmbot_stable&Mid0aria/universal-bypass&Mid0aria/Umi-AIO&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Mid0aria/owofarmbot,mid0aria/owofarmbotv2,Mid0aria/universal-bypass,Mid0aria/Umi-AIO&type=Date)](https://star-history.com/#Mid0aria/owofarmbot&mid0aria/owofarmbot_stable&Mid0aria/universal-bypass&Mid0aria/Umi-AIO&Date) -->
 
 # 📊 GitHub Stats:
 
-![Mid0aria's Github Stats](https://github-readme-stats.vercel.app/api?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<!-- ![Mid0aria's Github Stats](https://github-readme-stats.vercel.app/api?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mid0aria&theme=radical&hide_border=false)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mid0aria&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut) -->
+<!-- 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mid0aria&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mid0aria&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
